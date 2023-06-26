@@ -1,0 +1,15 @@
+/Users/a1/RiderProjects/FileSystem/FileSystem/bin/Debug/net7.0/FileSystem
+/Users/a1/RiderProjects/FileSystem/FileSystem/bin/Debug/net7.0/FileSystem.deps.json
+/Users/a1/RiderProjects/FileSystem/FileSystem/bin/Debug/net7.0/FileSystem.runtimeconfig.json
+/Users/a1/RiderProjects/FileSystem/FileSystem/bin/Debug/net7.0/FileSystem.dll
+/Users/a1/RiderProjects/FileSystem/FileSystem/bin/Debug/net7.0/FileSystem.pdb
+/Users/a1/RiderProjects/FileSystem/FileSystem/obj/Debug/net7.0/FileSystem.csproj.AssemblyReference.cache
+/Users/a1/RiderProjects/FileSystem/FileSystem/obj/Debug/net7.0/FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/RiderProjects/FileSystem/FileSystem/obj/Debug/net7.0/FileSystem.AssemblyInfoInputs.cache
+/Users/a1/RiderProjects/FileSystem/FileSystem/obj/Debug/net7.0/FileSystem.AssemblyInfo.cs
+/Users/a1/RiderProjects/FileSystem/FileSystem/obj/Debug/net7.0/FileSystem.csproj.CoreCompileInputs.cache
+/Users/a1/RiderProjects/FileSystem/FileSystem/obj/Debug/net7.0/FileSystem.dll
+/Users/a1/RiderProjects/FileSystem/FileSystem/obj/Debug/net7.0/refint/FileSystem.dll
+/Users/a1/RiderProjects/FileSystem/FileSystem/obj/Debug/net7.0/FileSystem.pdb
+/Users/a1/RiderProjects/FileSystem/FileSystem/obj/Debug/net7.0/FileSystem.genruntimeconfig.cache
+/Users/a1/RiderProjects/FileSystem/FileSystem/obj/Debug/net7.0/ref/FileSystem.dll
